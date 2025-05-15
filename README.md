@@ -1,4 +1,4 @@
 # Heck_simu
 Heck simu
 Pretend to be hackers.
-failed to all colors
+Failed to display all colors
