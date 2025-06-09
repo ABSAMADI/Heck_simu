@@ -13,7 +13,7 @@ try:
             try:
                 a = int(input(colorama.Fore.LIGHTGREEN_EX + "Enter a number: "))
             except:
-                print("error: enter a number")
+                print(colorama.Fore.RED + "error: enter a number")
 
             if a == 1:
                 while 1:
