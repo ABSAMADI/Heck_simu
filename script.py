@@ -9,7 +9,7 @@ try:
             print(colorama.Fore.GREEN)
             cowsay.tux("hello im a abolfazl me github is @ABSAMADI")
             print(colorama.Fore.RESET)
-            print(colorama.Fore.GREEN + '1.green ' + colorama.Fore.RED + '2.red ' + colorama.Fore.YELLOW + '3.yellow ' + colorama.Fore.BLUE + '4.blue ' + colorama.Fore.MAGENTA + '5.magenta ' + colorama.Fore.CYAN + '6.cyan ' + colorama.Fore.WHITE + '7.All colors not gey' + colorama.Fore.BLACK + " 8.no gey")
+            print(colorama.Fore.GREEN + '1.green ' + colorama.Fore.RED + '2.red ' + colorama.Fore.YELLOW + '3.yellow ' + colorama.Fore.BLUE + '4.blue ' + colorama.Fore.MAGENTA + '5.magenta ' + colorama.Fore.CYAN + '6.cyan ' + colorama.Fore.WHITE + '7.All colors not gey' + colorama.Fore.BLACK + " 8.no gey" + colorama.Fore.YELLOW + "about me")
             try:
                 a = int(input(colorama.Fore.LIGHTGREEN_EX + "Enter a number: "))
             except:
