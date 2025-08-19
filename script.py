@@ -21,7 +21,7 @@ try:
             print(colorama.Fore.RED + "            000000                   000000            000000       000000                     000000")
             print(colorama.Fore.RED + "            000000                   000000            000000      000000                       000000")
             print(colorama.Fore.RED + "")
-            print(colorama.Fore.RED + "")
+            print(colorama.Fore.RED + "version 1.0.0")
             
 
             print(colorama.Fore.GREEN + "1.Heck_simulator")
